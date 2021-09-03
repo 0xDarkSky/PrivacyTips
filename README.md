@@ -32,7 +32,7 @@ Find out how to be as safe as possible online and how to reveal less information
 
 **Opera Browser** owned by the Chinese and is a complete Spyware, *Opera makes 55 unsolicited requests upon its first run. By default, it spies on all your browsing history. Works closely with advertisers and trackers. Is integrated with Facebook, one of the biggest privacy violators in the world.* **WHATEVER YOU DO DON'T USE IT, WORST BROWSER TO CHOOSE**. You can read about it more here - https://spyware.neocities.org/articles/opera.html
 
-![opera_logo](https://user-images.githubusercontent.com/84932430/132009820-588e599b-0638-48ea-99b9-8d899ab74588.png)
+![opera_logo png](https://user-images.githubusercontent.com/84932430/132010848-4264d9ba-bd27-4edd-9682-298fe6d14dcf.png)
 
 **Google Chrome**, mainly because it uses Google and is made and owned by Google. Google tracks you and uses your information for advertising. If you use Google at least use one of the browsers provided above, ex. Iridium, Bromite.
 
