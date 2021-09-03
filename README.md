@@ -78,3 +78,6 @@ https://spyware.neocities.org
 
 ![watchdog](https://user-images.githubusercontent.com/84932430/132010649-8f44749b-c30e-487b-bd3f-39200853cce5.png)
 
+# Updates
+
+*Let me know if I should add more browsers/search engines, or make a review about one.*
