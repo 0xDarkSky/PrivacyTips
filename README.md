@@ -70,7 +70,7 @@ Searx - Main page - https://searx.me/, Instances - https://searx.space/
 
 ![searx](https://user-images.githubusercontent.com/84932430/132010517-902f4eeb-713f-4742-a915-aaac1dedf369.png)
 
-# Credits
+# Credits & Sources
 
 **Online Spyware Watchdog**
 
